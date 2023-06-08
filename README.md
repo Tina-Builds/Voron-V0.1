@@ -1,4 +1,4 @@
-# Bottom panal 
+# Bottom panel 
 for the Voron V0.1 with the Trident skirt remix
 https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/golas/v0-trident-skirt-mix
 
