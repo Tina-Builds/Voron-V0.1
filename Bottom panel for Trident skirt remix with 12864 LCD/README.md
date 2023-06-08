@@ -1,4 +1,4 @@
-#Bottom panel for the V0.1 mod Trident skirt remix of damian-gdes
+# Bottom panel for the V0.1 mod Trident skirt remix of damian-gdes
 ![Image of bottom view](images/bottom_view.jpg)
 
 Printed in PLA. If printed in ABS maybe to print upscaled 100.5%
