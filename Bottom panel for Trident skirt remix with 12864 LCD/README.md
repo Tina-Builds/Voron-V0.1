@@ -11,7 +11,7 @@ Preparation (optional):
 - enlarge the holes for the feet with a 4.5mm drill
 - melt in heat inserts
 
-![Feet Mod](images/Trident_style_ skirt_feet_modification.jpg)
+![Bottom panel for Trident skirt remix with 12864 LCD](/images/Trident_style_ skirt_feet_modification.jpg)
 
 Mounting the PTFE tube:
 Pull the tube from the holer of the corner feet and insert into the hole of the back wall
