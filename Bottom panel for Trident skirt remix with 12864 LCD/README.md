@@ -21,4 +21,5 @@ Pull the tube from the holer of the corner feet and insert into the hole of the 
 
 Thanks to damian-gdes who made my V0.1 nicer
 with his mod: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/golas/v0-trident-skirt-mix
+
  Thanks to Steve, Nero 3D and Sanity for all their help and patience and all the others who helped
