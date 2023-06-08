@@ -9,7 +9,7 @@ BOM:
 
 Preparation (optional):
 - enlarge the holes for the feet with a 4.5mm drill
-- insert heat inserts
+- melt in heat inserts
 ![Feet Mod](images/Trident_style_ skirt_feet_modification.jpg)
 
 Mounting the PTFE tube:
