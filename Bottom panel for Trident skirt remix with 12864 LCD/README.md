@@ -10,11 +10,13 @@ BOM:
 Preparation (optional):
 - enlarge the holes for the feet with a 4.5mm drill
 - insert heat inserts
-![Image of feet](images/Trident_style_ skirt_feet_modification.jpg)
+
+![Image of Trident style](images/Trident_style_ skirt_feet_modification.jpg)
 
 Mounting the PTFE tube:
 Pull the tube from the holer of the corner feet and insert into the hole of the back wall 
-![Image of tube](imges/PTFE_tube path.jpg)
+
+![Image of PTFE tube](imges/PTFE_tube path.jpg)
 
 
 Thanks to damian-gdes who made my V0.1 nicer
