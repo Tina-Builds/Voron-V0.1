@@ -16,7 +16,7 @@ Preparation (optional):
 Mounting the PTFE tube:
 Pull the tube from the holer of the corner feet and insert into the hole of the back wall
 
-![Image of PTFE tube](images/PTFE_tube path.jpg)
+![Image of PTFE tube](images/3.jpg)
 
 
 Thanks to damian-gdes who made my V0.1 nicer
